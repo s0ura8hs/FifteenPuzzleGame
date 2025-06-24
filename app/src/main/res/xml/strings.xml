@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">15-Puzzle Game</string>
+    <string name="load_image">📷 Load Image</string>
+    <string name="new_game">⟲ New Game</string>
+    <string name="solve_puzzle">🤖 Solve Puzzle</string>
+    <string name="undo_move">↶ Undo</string>
+    <string name="reset_board">⟳ Reset</string>
+    <string name="your_moves">▶ Your Moves: %d</string>
+    <string name="optimal_moves">🗝 Optimal Moves: %d</string>
+    <string name="timer_display">⏱ Time: %ds</string>
+    <string name="level_display">LEVEL %d</string>
+    <string name="status_ready">Status: Ready</string>
+    <string name="status_loading">Status: Loading...</string>
+    <string name="status_solving">Status: Solving...</string>
+    <string name="status_done">Status: Done</string>
+    <string name="status_no_solution">Status: No solution!</string>
+    <string name="status_reset">Status: Board reset</string>
+    <string name="game_over_title">Game Over</string>
+    <string name="game_over_message">You lost! Exceeded optimal moves.</string>
+    <string name="level_complete_title">Level Complete</string>
+    <string name="level_complete_message">🎉 Congrats! Level %1$d completed in %2$d moves.\n⏱ Time: %3$ds</string>
+    <string name="try_again">Try Again</string>
+    <string name="next_level">Next Level</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="image_loaded_success">Image loaded successfully</string>
+    <string name="permission_required">Storage permission is required to load images</string>
+</resources>

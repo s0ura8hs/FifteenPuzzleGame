@@ -1,0 +1,14 @@
+// File: <project-root>/build.gradle
+
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:8.10.1'
+    }
+}
+
+// Remove the allprojects / subprojects block entirely!
+// Do *not* declare repositories here when using settings-based repo management.
